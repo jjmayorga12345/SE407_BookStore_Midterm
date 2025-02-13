@@ -1,0 +1,4 @@
+BookID,BookTitle,GenreID,AuthorID,YearOfRelease,AuthorID,AuthorFirst,AuthorLast,GenreID,GenreType
+1,"The Travels of Marco Polo ",1,77,1305,0,,,0,
+2,Canterbury Tales,1,2,1410,0,,,0,
+2167,Farid,1,2,2000,0,,,0,
